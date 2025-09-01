@@ -13,14 +13,6 @@ Our mission is to deliver **reliable, modern, and scalable solutions** tailored 
 
 ---
 
-## 📦 Our Products
-We build and maintain several in-house and client-focused products. Some highlights:
-- **Product A** → Short description of what it solves
-- **Product B** → Short description of what it solves
-- **Product C** → Short description of what it solves
-
----
-
 ## 🛠️ Tech We Use
 We leverage modern technologies to ensure speed, reliability, and maintainability:
 - **Languages & Frameworks**: Python, .NET, FastAPI, React
@@ -56,8 +48,8 @@ See individual repositories for specific license details.
 ---
 
 ## 🌍 Connect With Us
-- 🌐 Website: [tinyhold.com](https://tinyhold.com) _(replace with your actual site)_
-- 📧 Contact: [info@tinyhold.com](mailto:info@tinyhold.com)
+- 🌐 Website: [tinyhold.com](https://tinyhold.be)
+- 📧 Contact: [info@tinyhold.com](mailto:info@tinyhold.be)
 - 💼 LinkedIn / Socials (if you want to add)
 
 ---
